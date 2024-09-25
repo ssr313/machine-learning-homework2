@@ -23,4 +23,4 @@ Folds (cv): 5
 # Feature Scaling:
 Standardization  
 # ROC result：  
-![image](https://github.com/user-attachments/assets/660331b6-9b45-4c1e-91ef-0ae1f4e98b25)
+![image](https://github.com/user-attachments/assets/5765f82b-ecfb-4f92-bb44-e8d5f8b39f9e)
